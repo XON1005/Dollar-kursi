@@ -1,0 +1,2 @@
+# Dollar-kursi
+Shunchaki project
